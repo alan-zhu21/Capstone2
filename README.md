@@ -1,1 +1,3 @@
 # Capstone2
+
+Proposal 1: I will most likely use Python and Flask because I am interested in deepening my Python programming skills. This project will focus more on the backend but will also have front end visuals. This will be a website. The goal of this project is to display historical data on stock/companies. The demographic of my users is beginning investor or non investors interested in seeing historical stock charts. I will source my data from an external API and would like it contain historical price of stocks. Database schema will contain the prices of the stocks. The app can compare different stocks on the same chart. User flow will be single page updates and drop downs and inputs for metrics to display. My stretch goal is to do chart comparisons.
